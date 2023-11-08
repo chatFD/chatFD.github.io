@@ -1,7 +1,8 @@
 # Welcome! to Chat for CFD
 ## What is it?
 - chatFD stands for chat for CFD(Computational Fluid Dynamics) and is a OpenFOAM setup assistant using chatGPT.
-
+  
+![Flow chart](https://github.com/chatFD/chatFD.github.io/blob/main/Flow.png?raw=true)
 ## What is for
 - chatFD helps users, from those unfamiliar with computational fluid dynamics to experienced users, to easily perform CFD analysis through case descriptions without complicated setup procedures.
 
