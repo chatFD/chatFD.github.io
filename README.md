@@ -8,6 +8,8 @@
 ## How it works?
 - When you describe your case in chatFD, chatFD converts them into appropriate questions to ask GPT-4. chatFD uses the returned answers to create an OpenFOAM Case and prepare it for calculation.
 
+## Introduction Page
+https://chat4cfd.notion.site/Welcome-to-Chat-for-CFD-42ab768eb1a146d58e0dea4dec517c93?pvs=4
 
 ## Contact
 email : chat4cfd@gmail.com
